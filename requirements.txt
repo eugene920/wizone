@@ -1,0 +1,6 @@
+Flask
+gunicorn
+numpy
+Pillow
+scikit-learn
+colorthief

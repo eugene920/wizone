@@ -1,6 +1,6 @@
-Flask
-gunicorn
-numpy
-Pillow
+Flask==3.0.3
+gunicorn==23.0.0
+numpy==1.24.4
+Pillow==10.2.0
 scikit-learn
 colorthief
